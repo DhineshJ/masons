@@ -15,9 +15,9 @@ bricks:
   widget:
     path: ./widget/
 
-  masonj:
+  masons:
     git:
-      url: https://github.com/DhineshJ/mason.git
-      path: bricks/widget  
+      url: https://github.com/DhineshJ/masons
+      path: mason/widget
   
 
